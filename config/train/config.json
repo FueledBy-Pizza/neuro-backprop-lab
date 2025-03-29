@@ -1,6 +1,6 @@
 {
   "criterion": "cross_entropy",
-  "optimizer": "rprop",
+  "optimizer": "rpropminus",
   "learning_rate": 0.001,
   "epochs": 20
 }
